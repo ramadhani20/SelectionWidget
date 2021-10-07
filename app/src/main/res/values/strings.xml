@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WidgetSelection</string>
+    <string-array name="city">
+        <item>Surabaya</item>
+        <item>Malang</item>
+        <item>Jember</item>
+        <item>Probolinggo</item>
+        <item>Pasuruan</item>
+        <item>Situbondo</item>
+        <item>Bondowoso</item>
+        <item>Lumajang</item>
+        <item>Banyuwangi</item>
+        <item>Blitar</item>
+    </string-array>
+</resources>
